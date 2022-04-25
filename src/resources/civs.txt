@@ -1,0 +1,518 @@
+Master list of Civilizations (LEK V28)
+Updated automatically every 5 minutes
+MASTERLIST OF CIVILIZATIONS (LEK 28)
+
+
+Download for v28: here
+Download for map v3.3: here
+Civilizations are listed in alphabetical order.
+New Civilizations and changes to existing civilizations are marked in BLUE.
+
+(unchanged) means that a certain trait is the exact same as in vanilla Civ 5 (all DLC).
+
+
+Akkad - Sargon
+UA: Epic of Battle: +3 Culture, +2 Happiness and +1 Production from conquered cities. Generals grant nearby units a +15% Combat Bonus in combat with Cities.
+UU: Akkadian Library: Replaces Library. +1 Science. Does not require Gold maintenance. Costs less to produce (40 hammers vs. 50).
+UU: Laputtu: Replaces Spearmen. 13 Strength (vs. 11). Doubles Workers’ improvement speeds on tiles it is stationed.
+Aksum - Ezana
+UA: Saint Elesbaan's Blessing: Cities emanate 33% additional Religious Pressure if a Trade Route currently departs from it.
+UI: Rock-Hewn Church: Replaces the Quarry (and may only be built on Quarry resources), but available at Mining. Provides +2 Faith and +1 Production. +1 Faith at Theology.
+UB: King Ezana's Stele: Replaces National Epic. Requires a Shrine in every city to build instead of Monuments. Provides +4 Culture and Faith in addition to the base stats. Grants +2 Food, +1 Production, +1 Gold and +1 Faith from all Shrines in the empire.
+Hills Bias
+
+America - Washington
+UA: Manifest Destiny (unchanged)
+UU1: Minuteman (unchanged)
+UU2: Pioneer: Replaces Settler. Has the same combat and movement properties as the Scout (preventing instant capture) and may Settle.
+Arabia - Harun al-Rashid
+UA: Ships of the Desert (unchanged)
+UB: Camel Archer: 20 Ranged Strength (from 21), 14 Melee (from 17)
+UU: Bazaar (unchanged)
+Argentina - Eva Perón
+UA: Pride of the People: Build Pastures and Farms twice as fast.
+UU: Gaucho: Replaces Horseman (and upgrades to Cavalry), but available at Gunpowder. 5 Movement, 20 Strength. Identical Production cost to the Knight. +200% Combat Bonus when Flanking. May Withdraw from Melee attacks (50% chance). Capable of building Pastures and Farms in 2 turns.
+UB: Ocupada Estable: +1 food from Pastures and +1 Production from Maize in addition to the regular benefits of the Stable.
+Armenia - Tiridates III
+UA: Splendor of the Caucasus: +1 Food, +2 Production and +1 Gold from Mountains (including mountainous Natural Wonders - i.e. Kilimanjaro, Uluru, Mt. Fuji, Mt. Sinai, Mt. Kailash, Rock of Gibraltar and Sri Pada).
+UU: Sparapet: Replaces Horseman. Requires 80 Production and 2 Horse resources. 17 Combat Strength and radiates the Great General Combat Bonus to nearby allies.
+Does not obsolete.
+UB: Darbas: Replaces Observatory, providing +4 Science and +1 Culture. +3 culture and +4 science on Mountains (including mountainous Natural Wonders).
+Hill Bias
+Avoid Jungle
+Assyria - Ashurbanipal
+UA: Siege Warfare: Siege units receive +1 Movement. Receive a free Great Writer at Philosophy, and receive a free Great Work of Writing upon completion of the Royal Library in the Capital.
+UB: Royal Library: +1 Culture and Science in addition to normal behavior.
+UU: Siege Tower (unchanged)
+Australia - Henry Parker
+UA: Dreamtime: +5 Faith from Natural Wonders.
+UU: Ngangkari: Replaces Worker. +1 Movement, and arrives with Medic I and II.
+May build Workboats (in 4 turns) without consumption.
+UB: Convict Penitentiary: Replaces Constabulary. Available at Machinery (instead of Banking). Provides +1 Gold and Production, and +5% Gold and Production in the City.
+Coastal Bias
+Austria - Maria Theresa
+UA: Diplomatic Marriage (unchanged)
+UU: Hussar (unchanged)
+UB: Coffee House: Much cheaper to construct (100 vs 166.7 Production).
+Hills Bias
+
+Ayyubids - Saladin
+UA: Justice of Saladin: All cities receive a free Burial Tomb upon capture. +25% Improvement construction rate.
+UB: Madrasah: Replaces University. +2 Faith from the Madrasah; +1 Science from Flood Plains, +2 Science from Oases.
+UU: Mamluk: Replaces Knight. 20 Strength, +50% Combat Bonus vs. Melee units, +25% vs. Gunpowder units. Slightly more expensive to produce.
+Desert Bias
+Aztecs - Montezuma
+UA: Sacrificial Captives (unchanged)
+UB: Floating Gardens: +10% (from +15%) Food, and only +1 Food (from +2) from each Lake in addition to normal behavior.
+UU: Jaguar (unchanged)
+Babylon - Nebuchadnezzar II
+UA: Ingenuity: Receive a free Great Scientist when you discover Philosophy. Earn Great Scientists 25% (from 50%) faster.
+UB: Walls of Babylon (unchanged)
+UU: Bowman (unchanged)
+Belgium - Leopold II  
+UA: Colonialist Riches: +1 Production from Plantations. +1 Gold from Strategic Resources.
+UB: Stade: Replaces Zoo. +3 Happiness, +1 Culture, +1 Gold. Cheaper to construct. Does not require a Colosseum to be built.
+UU: Force Publique: Replaces Great War Infantry. 51 Strength (vs. 50), arrives with Drill I and Charge.
+Boers - Stephanus Johannes Paulus Kruger
+UA: The Great Trek: +1 food from non-fresh water farms, +1 culture from farms after the discovery of Fertilizer
+UB: Staatsmuseum: Replaces Opera House. +3 Culture, one Great Artist slot.
+UU: Voortrekker: Replaces Great War Infantry. Cheaper to build. 50 Strength, +25% strength when defending, heals completely upon killing a unit. Capable of building Farms in 2 turns.
+Bolivia- Revolución Nacional
+UA: Upon the discovery of Chemistry, expending a Great Artist improves the yield of Mines with +1 Production and expending a Great Writer improves them with +1 Food instead. [To confirm: These yields are swapped, do not stack and only work on artists and writers, not any unique or normal other Great People]
+UU: Comparsa Folklorica : Replaces the Great Musician. Has 4 movement. In addition to the normal usages of a Great Musician, this unit may also be expended to start a Golden Age, or to generate Culture.
+UU: Colorado : Replaces the Anti-tank Rifle. 40 Combat strength. Available at Dynamite. This unit is weaker against armored units (+100% bonus versus +200%), but receives +2 combat strength for every 5 excess happiness in the empire [rounds up, updates whenever a unit is moved, or during turn rolls]
+Hill bias
+
+Brazil - Pedro II
+UA: Carnival: Tourism output is +100% during their Golden Ages. Earn Great Artists, Musicians, and Writers 100% faster during their Golden Ages.
+UU: Pracinha - 80 Strength and Foreign Lands bonus (+20% Combat Strength in foreign territory) on top of its normal promotions.
+UI: Brazilwood Camp - Available at Bronze Working (instead of Machinery). Provides +1 Production. Gains +2 Gold at Machinery and +2 Culture at Acoustics
+Brunei - Bolkiah
+UA: Austronesian Thalassocracy: Start with a Nelayan.
+UU: Nelayan - Replaces the Workboat, but is capable of combat. 10 Strength. May construct Workboats and Kampong Ayers (in 4 turns) without consumption.
+UI: Kampong Ayer - Requires Optics. Can be built on any Coastal tile adjacent to land tiles. Provides +1 Food, +1 Culture and +1 Gold. +1 Production at Astronomy, and +1 Culture at Flight.
+Coastal Bias
+Bulgaria - Asparukh Khan
+UA: Cyrillic Script: Writer Specialists provide +3 Science, Science buildings provide +1 Culture.
+UU: Konnitsa - Replaces the Knight. Similar to an Impi, performs a Ranged attack when initiating combat. Gains a +25% Combat Bonus vs. Gunpowder units.
+UB: Khambar - Replaces Granary. 10% cheaper to construct. In addition to the typical perks, yields +1 Gold from Wheat and Cattle resources.
+Burma - Anawrahta
+UA: Pyu City States: +1 Happiness in every City.
+UU: Akyat Cannon: Replaces the Cannon, but is available at Gunpowder. Identical combat capabilities to the Trebuchet, but wields 3 Range instead of 2.
+UB: Kyawwat: Replaces Stoneworks. Extends bonuses to Salt and Iron, but does not require any resources to construct.
+Byzantium - Theodora
+UA: Patriarchate of Constantinople (unchanged)
+UB: Hippodrome: Replaces Amphitheater. +1 Happiness. +2 Faith and Culture.
+UU: Cataphract (unchanged)
+Removed Bias
+Canada - John A. MacDonald
+UA: Canadian Fur Trade: +2 Gold from Camps, +2 Gold and +1 Culture from Lake tiles.
+UU: Combat Engineer: Replaces Rifleman. Available at Industrialization. Identical Strength, but +1 Movement. May construct Roads, Railroads, and Forts, and clear Forests, Jungles and Marsh tiles.
+UB: Tim Hortons: Replaces Stock Exchange. Home of Canada’s favorite coffee.
++2 Happiness. +1 Gold on river tiles worked by this city. Retains all other traits of the Stock Exchange, and is marginally cheaper to construct.
+Carthage - Dido
+UA: Phoenecian Heritage: Units may now enter Mountains without a General.
+UB: Cothon: Replaces Lighthouse. +1 Food, Production and Gold in addition to the typical perks.
+UU: African Forest Elephant: No longer has an increased Production cost. If attacking from higher elevation (Hills to flat land, Mountain to non-Mountain), gains +20% Combat Strength and knocks enemies back (Heavy Charge).
+Celts - Boudicca
+UA: Druidic Lore (unchanged)
+UB: Silversmith: Replaces the Mint. Provides +2 Production and +1 Gold (vs. +2 Gold) and does not require resources to construct, but retains the typical perks of a Mint. Less costly to produce (50 hammers vs. 66).
+UU: Pictish Warrior: Replaces Warrior (instead of the Swordsman). 10 Strength (vs. 8). Earn 100% of your foe’s Combat Strength as Faith from kills. Upgrades into Swordsmen (instead of Spearmen) from Ruins. (Warriors upgraded in this fashion will not suffer a Strategic Resource penalty and retain their Faith-earning promotion, but will lose these qualities upon further upgrade.)
+Forest Bias
+Chile - O’ Higgens
+UA: By reason or by force: Fishing Boats and Dry Docks instantly claim all surrounding neutral tiles. Receive a free Great Admiral at the Compass technology. Melee & Gunpowder units reduce nearby enemy Naval units' and Naval Melee units reduce nearby enemy Land units’ combat strength by 25%.
+UB: Cooperative : Replaces the Factory. Only 1 is needed to unlock your ideology. No maintenance cost.
+UU: Cardoen : Replaces the Helicopter Gunship. May take Cities. Has a +100% combat bonus against ranged attacks.
+Coastal Bias
+[ Note : To avoid some nasty scenarios, embarked units do not give combat modifiers from this UA ]
+
+
+China - Wu Zetian
+UA: Art of War (unchanged)
+UB: Paper Maker (unchanged)
+UU: Chu-Ko-Nu: (unchanged)
+Cuba - Fidel Castro
+UA: For every other Civilization you have met, receive +1 Culture for every 8 Culture their Capital generates each turn. Upon selecting your first Tenet in an Ideology, immediately receive 2 Guerrilleros. Receive 50% less unhappiness from ideology pressure.  [Culture bonus does not take % modifiers into account]
+UU: Guerrillero: Replaces the GWI. Unlocks after choosing your first Tenet in an ideology. 3 movement. 20% Cheaper to construct, but weaker ( 44 vs 50 melee strength )
+UB: Dance Hall: Replaces the Opera house. +1 Happiness, +15% production towards military units and +4 Culture if the Great work of Music is filled [updates every turn roll]
+Denmark - Harald Bluetooth
+UA: Viking Fury: Gains +1 Production from Fish Resources.
+UU1: Berserker (unchanged)
+UU2: Longship: Replaces Trireme. +2 Movement, sharing movement with embarked units that start their turn on the same tile as the Longship.
+Egypt - Ramesses II
+UA: Monument Builders: +15% (from 20%) Production when building World Wonders
+UB: Burial Tomb (unchanged)
+UU: War Chariot (unchanged)
+England - Elizabeth
+UA: Sun Never Sets (unchanged)
+UU1: Longbowman: (unchanged)
+UU2: Ship of the Line: 30 Ranged Combat (from 35), 25 Melee (from 30).
+Ethiopia - Haile Selassie
+UA: Spirit of Adwa (unchanged)
+UB: Stele (unchanged)
+UU: Mehal Sefari: Near Capital Combat Bonus increased to 50% (from 30%). Bonus falloff increased to -5% per tile (from -3% per tile).
+Finland - Mannerheim
+UA: All Melee and Mounted Units receive a +50% increased flanking bonus. +1 Culture from unimproved Forest tiles.
+UU: Sissi: Replaces Machine Gun. 3 Movement. Ignores terrain cost and receives a +25% Combat Bonus vs. Armored units. Does not spend movement on pillaging tiles, but cannot attack twice. 60 Ranged Strength, 50 Melee (vs. 60).
+UB: Sauna: Replaces Shrine. +2 Culture from Lake tiles. Units trained in Cities with a Sauna heal +10 HP inside friendly territory.
+
+France - Napoleon
+UA: City of Light: +1 Culture in the Capital, increasing by an additional +15 upon the discovery of Acoustics. Theming bonuses are doubled in the Capital.
+UI: Chateau : Cannot be built on resource tiles. Receives +2 Science, and +1 Science from the Free Thought policy in addition to its regular yields.
+UU: Musketeer (unchanged)
+Franks - Charlemagne
+UA: Holy Roman Empire: +1 Faith from Farms. Frankish Units receive +25% Movement when traveling along friendly and neutral Roads and Railroads.
+UB: Mead Hall: Replaces Colosseum. +3 Happiness, +1 Culture.
+UU: Seaxman: Replaces Longswordsman. Available at Chivalry. 22 Strength (vs. 21). Arrives trained with the Cover I and Amphibious promotions.
+Gaul -  Vercingetorix
+UA:Oppidum of Bribacte: Receive a free Murus Gallicus in the original Capital.
+UU: Noble Swordsmen: Replaces the Longswordsman. 20 Strength (vs. 21). Gains a +33% Combat Bonus when initiating combat and a +50% Bonus in Forests. Does not require Iron resources. Becomes obsolete at Rifling (instead of Gunpowder) and upgrades into Riflemen.
+UB: Murus Gallicus: Replaces Walls. Slightly cheaper (44 Production vs. 50) and better defense (+6 vs. +5). +1 Production and +1 Happiness; +1 Production after researching Metal Casting.
+Forest Bias
+Germany - Bismarck
+UA: Precision Engineering: +1 Science and Production from Workshops, Windmills, Factories and Hydro Plants. +33% faster Great Engineer generation.
+UB: Hanse (unchanged)
+UU: Panzer (unchanged)
+Golden Horde - Batu Khan
+UA: Golden Conquest - Receive a free Great Artist upon completing a Jarliq in a City. After the discovery of Philosophy, receive a free Jarliq in the Capital.
+UU: Ulan - Replaces Pikeman. Behaves as a Mounted unit and requires a Horse resource. +2 Movement. Arrives trained with Ambush Formation I and does not receive a penalty vs. Cities.
+UB: Jarliq - Replaces Courthouse. Requires Writing. Additionally provides +3 Gold and Science. Does not require Gold maintenance.
+
+Goths - Alaric I
+UA: Drauhtinon: Melee and Gunpowder units receive +1 Movement and heal 25 HP after killing an enemy.
+UU: Gadrauht: Replaces Longswordsman. 22 Strength (vs. 21). Cheaper to produce, and does not require Iron. Moves along enemy Roads unimpeded.
+UI: Harjis: Available at Mining. Must be adjacent to a Luxury resource (but not on a Luxury resource). Cannot be built adjacent to one another. Provides +1 Production. +1 Production upon the discovery of Iron Working, Gunpowder and Dynamite.
+
+Greece - Pericles
+UA: Hellenic League (unchanged)
+UB: Odeon: Replaces the Ampitheater. +4 Culture, +1 Gold, and includes a slot for a Great Writer Specialist.
+UU: Hoplite: 14 Strength (from 13, vs. 11).
+Removed Bias
+Hittites - Muwatallis
+UA: Bronze and Iron: +1 Gold from Mines. Start with Mining Technology.
+UB: Lion’s Gate: Replaces Walls. +2 Gold and +2 Culture.
+UU: Heavy Chariot: Replaces Chariot Archer. Identical Ranged Strength and
+3 Movement (vs. 4) , but 10 Melee Strength (vs. 5). Gains a +20% Combat Bonus when enemies initiate combat.
+Huns - Attila
+UA: Scourge of God (unchanged)
+UB: Qara U’y: Replaces the Stable. In addition to the typical perks, yields +1 Faith from Horses. Provides +2 Horse Resources for the empire upon completion.
+UU: Horse Archer: Properly requires Horses.
+Avoid Forest
+Avoid Jungle
+Hungary - András II
+UA: Verszerzodes: Walls, Castles, Arsenals and Military Bases provide
++1 Production and Culture.
+UU: Black Arquebusier: Replaces Musketman. Identical strength, but is capable of setting up to perform Ranged attacks (similar to a Siege unit). Arrives with Shock I.
+UB: Orszaggyules: Replaces the Palace. In addition to the regular bonuses of the Palace, a second Orszaggyules may be constructed to move the Capital, and the original can be sold and moved as well. The Capital is located in the last City to build an Orszaggyules. Provides +25% faster Great Person Generation and +10% Production towards buildings. +3 Food, Production and Culture at Chivalry.
+Requires Mathematics to construct.
+Inca - Pachacuti
+UA: Great Andean Road (unchanged)
+UI: Terrace Farm (unchanged)
+UU: Slinger: 5 Melee Strength (from 4), now matching the Archer.
+Hills Bias
+India - Gandhi
+UA: Population Growth (unchanged)
+UB: Mughal Fort: +4 Culture (from 2), +2 Happiness. +2 tourism at Flight. No longer requires Walls to construct.
+UU: War Elephant: +50% strength against Melee units.
+Indonesia - Gajah Mada
+UA: Spice Islanders: Unique Luxuries appear in the first 3 Coastal Cities (regardless of continent).
+UB: Candi (unchanged)
+UU: Kris Swordsman: 15 Strength (from 14). Negative promotion outcomes have been removed.
+Ireland - Michael Collins
+UA: Gaelic Revival: +2 Happiness from all National Wonders (excluding the Palace). +15% Production towards constructing buildings required for National Wonders.
+UU: Fenian: Replaces Rifleman. Significantly cheaper (110 vs. 150 Production). Gains a +20% Combat Bonus in friendly territory.
+UB: Irish Pub: Replaces Zoo. In addition to the typical perks, provides +3 Food in the City, and costs no Gold maintenance. +1 Production from Wine, Tea and Coffee resources in the City.
+
+Iroquois - Hiawatha
+UA: The Great Warpath (unchanged)
+UB: Longhouse: +10% Production (like regular Workshop), also extends Production yield to Jungle tiles. Cheaper to construct (50 vs. 80 Production).
+UU: Mohawk Warrior: 15 Strength (from 14).
+Forest Bias
+
+Israel - David
+UA: The Promised Land: +1 Culture from Pastures.
+UU: Maccabee: Replaces Swordsman. Significantly cheaper (40 vs. 50 Production). Earn 100% of foe’s Combat Strength as Faith upon kill.
+ UB: Yeshiva. Replaces the Temple. More expensive (80 vs. 67 Production), but grants +1 Food and Production in the City.
+Italy - Vittorio Emanuele III
+UA: Rinascimento: +1 Culture from Specialists. Enter a Golden Age upon completion of a Policy Tree.
+UU: Pittore: Replaces Great Artist. Golden Ages started by a Pittore last for 9 turns (vs. 6), scaling to 14 turns with Chichen Itza or Freedom 3; scaling to 14 turns with both.
+UB: Basilica: Replaces Museum. Available at Industrialization. +20% faster Great Person generation. Contains 2 slots for Great Artist Specialists, and generates 2 Great Artist Points each turn.
+Japan - Oda Nobunaga
+UA: Bushido (unchanged)
+UB: Dojo: Replaces Barracks. +2 science. Land units built in a City with a Dojo gain a unique promotion, granting a +10% Combat Bonus.
+UU: Samurai (unchanged)
+
+Jerusalem - Fulk V
+UA: The Holy Land: +1 Faith from Luxury Resources.
+UU: Crusader: Replaces Longswordsman. 17 Strength, slightly cheaper to produce. Available at Theology. Receives Faith from kills and gains a +20% Combat Bonus outside of friendly territory. May enter rival territory without Open Borders.
+UB: Outremer: Replaces Courthouse. Eliminates extra Unhappiness, and provides +2 Culture, +2 Happiness, +2 Faith. Requires no Gold maintenance.
+Khmer - Suryavarman II
+UA: Grand Baray of Angkor: Receive a free Baray in the Capital.
+UU: Ballista Elephant: Replaces Crossbowman. 14 Ranged Strength (vs. 18), 20 Melee (vs. 13), 3 Moves, 2 Range, classified as a Mounted Ranged unit. Arrives with the Feared Elephant promotion.
+UB: Baray: Replaces Garden. In addition to usual effects, 10% of Food is carried over after a Citizen is born. +2 Food and +2 Faith at Drama and Poetry.
+Kilwa - Ali ibn al-Hassan Shirazi
+UA: Merchant Economy: +5% Growth for each foreign Trade Route in the City.
++4 Gold from internal Trade Routes.
+UU: Dhow: Replaces Caravel, available at Compass. Costs less to produce, but has 17 Strength (vs. 20). Arrives with Boarding Party I.
+UB: Coral Port: Replaces Workshop. Yields less Production itself, but provides +2 Production from Coral, +1 Food from Fish, +1 Culture from Pearls and Crabs, and +2 Gold from Whales. Provides +1 Production from Hardwood, too.
+Coastal Bias
+
+Kongo - Mvemba a Nzinga
+UA: Heart of Africa: Borders grow 33% faster.
+UU: Ngao Mbeba: Replaces Swordsman. 15 Strength, gaining a +100% Combat Bonus when defending against Ranged attacks. Cannot attack.
+UB: Slave Market: Replaces Colosseum. Subtracts 1 Population in the City upon completion. Provides +4 Production and +5 Gold, with an additional +3 Production and +2 Gold at Industrialization. Does not provide Happiness.
+Forest Bias
+Korea - Sejong
+UA: Scholars of the Jade Hall: +1 (from +2) Science from Specialists, +1 Science from the Palace.
+UU1: Hwacha: Cheaper to construct (67 hammers vs. 80).
+UU2: Turtle Ship (unchanged)
+
+Lithuania - Vytautas
+UA: Baltic Mythology: All Prophets generated or received by Lithuania become the Krivis, which can create the Sacred Grove, but cannot spread or found a Religion.
+UU: Pestininkas: Replaces the Pikeman. Identical combat capabilities, but is significantly cheaper to construct (40 Production vs. 60).
+UI: Sacred Grove: Provides +1 Food, Production, Culture, Science and Faith. Each yield increases by +1 upon the discovery of Philosophy, Theology, Acoustics, Archeology, Plastics, Computers, and the Internet (for a total of 8 of each yield).
+UB: Grand Cathedral of Vilnius: Behaves like a Grand Temple but can be built without having a religion and may be built outside of a Holy City. 25% cheaper to construct (62 hammers vs. 82).
+Macedonia - Alexander
+UA: Macedonian Discipline - Barracks and Armories provide +1 Food, Culture and Happiness. Receive a free Hetairoi at Horseback Riding.
+UU1: Hetairoi - Replaces the Great General. 15 Combat Strength, 4 Movement. Requires a Horse resource. (If no Horses are available when this unit is generated, it receives a Strategic Resource penalty). Receives the Great Generals II, March, Charge, and Heavy Charge promotions for free. Can upgrade to Knight, but will lose its ability to create Citadels.
+UU2: Sarissophoroi - Replaces Pikeman. Available at Philosophy instead of Civil Service. Weaker, (14 Strength vs. 16), but gains a +100% Combat Bonus (vs. +50%) against Mounted units.
+Madagascar (Malagasy) - Ralambo
+UA: Sacred Hills of Imerina - +6 Culture and Faith from Holy Sites.
+UU: Mpiambina - Replaces Inquisitor (after buying a Inquisitor).
+Ranged unit with 8 Melee Strength and 14 Ranged. Receives a promotion from a unique selection after their first round of combat:
+Kelimazala: May strike twice
+Ramahavaly: +50% Defense, -50% Attack
+Manjakatsiroa: +25% Combat Bonus in friendly territory
+Rafantaka:  +15 HP Medic, and March promotion
+Mosasa:  +4 Sight, +4 Range
+Rabehaza: Captures defeated enemies
+Ambohimanambola:  Great General bonus to nearby allies
+Sehatra:  Fully heals from every kill
+Lambamena:  100% Combat Bonus vs. Cities
+Famadiahona:  Enables Knockback and Retreating mechanics
+Razana:  6 Movement, Confers Movement to Generals
+Masina:  75% Combat Bonus vs. wounded foes
+UB: Rova:  Replaces Walls. In addition to the defensive perks, provides +1 Happiness and +3 Faith.
+Manchuria - Nurhaci
+UA: Eight Banners: All Manchu Mounted (and Armored) units receive the Volley promotion (+50% Combat Bonus vs. Fortified units and Cities) and require no Gold maintenance.
+UB: Canton Factory: Replaces Bank. +35% Gold (vs. +25%), +2 Gold, 2 Merchant Specialist slots (vs. 1), and nearly half as costly to construct (67 Production vs. 134).
+UU: Qianlong Cavalry: Replaces Cavalry. Faster (5 Movement vs. 4) and generates Great Generals more quickly from combat (Great Generals I).
+
+Maori - Te Rauparaha
+UA Mana of Tumatauenga : During the first 5 turns, all units (except Recon units) receive +2 Movement and +1 Sight. After this, units receive +2 Movement during the first turn they appear.
+UU: Maori Warrior: 9 Strength (vs. 8). Same promotion as the Polynesians.
+Pa: Available at Engineering. +2 Food and +1 Faith. May only be built on Hills without resources and cannot be constructed adjacent to one another. +1 Food at Civil Service and Fertilizer. +40% Defensive bonus to units stationed on a Pa.
+
+Maya - Pacal
+UA: The Long Count (unchanged)
+UB: Pyramid: (unchanged)
+UU: Atlatlist (unchanged)
+Mexico - Benito Juarez
+UA: Encomienda System - Receive a free Worker near the Capital at Pottery. City-States that are afraid of Mexico gain 8 Influence per turn when Mexico can demand tribute from them, but does not.
+Units are 50% more effective at intimidating City-States.
+UU: Ranchero - Replaces Settler. Does not halt Growth to produce, but does not protect the City from starvation. Food does not contribute to its Production.
+UB: Hacienda - Replaces Windmill. +1 Production from Luxury resources, +1 Gold from Bonus resources (e.g. Wheat, Fish), and +1 Food from Strategic Resources (e.g. Horses, Iron).
+Mongolia - Genghis Khan
+UA: Mongol Terror: also applies to Armored Units. In addition, upon the discovery of Chivalry, reveal an additional Horse resource tile within the borders of every existing city; these Cities yield an additional +1 Food from all Horse resources. Spawned Horses will not spawn over existing resources or features (such as forests, mountains, or Natural Wonders), but may spawn on Hills if necessary.
+UU1: Khan (unchanged)
+UU2: Keshik: Ranged Strength increased to 17 (from 16), Melee increased to 17 (from 15).
+Moors - Abd-ar-Rahman III
+UA: Glory of Al-Andalus: During the Renaissance Era, all Cities have a 30% Production boost towards buildings (except Wonders). [Updates cities every turn or on tech gain]
+UU: Grenadine Cavalry: Replaces the Lancer. Has no City Penalty, but also may not move after attacking and does not receive a mounted combat bonus. A ranged unit with 2 Range. 29 Ranged strength, 22 melee strength
+UB: Alcazaba: Replaces the Castle. +10% food growth in the city, +3 Science
+Morocco - Ahmad al-Mansur
+UA: Gateway To Africa - Each trading partner will grant an additional +1 Gold / +1 Culture per era (3/1 Ancient, 4/2 Classical, 5/3 Medieval, etc., per partner).
+UI: Kasbah: +2 Food (from +1).
+UU: Berber Cavalry: Desert promotion also applies to Oases and Flood Plains.
+Nabataea - Aretas III
+Spring of Moses: Fresh Water Farms yield +1 at Mathematics rather than Civil Service.
+UU : Zabonah : Replaces the Scout. Cannot Attack. Discovers Cities [but does not meet the holder] faster than normal [ +3 tiles]. When this unit discovers a Capital or City-State, gain +10 Gold and +5 Experience. Does not upgrade from ruins.
+UB: Rock-cut tomb: Replaces the Canaversery. In addition of it’s usual effects, this building can only be built in a city next or on a Desert tile. +1 Food from outgoing trade routes.
+Desert Bias
+Netherlands - William
+UA: Dutch East India Company: +1 Happiness from each unique Luxury in the Empire and +1 Gold from Luxury resource tiles.
+UI: Polder: May also be built by Workboats on Lakes or Coastal tiles with at least 3 adjacent land tiles.
+UU: Sea Beggar: 27 Strength (from 25), arrives with the Boarding Party II and Supply promotions. Like all other Privateers in LEKmod, heal 25 HP for each kill. No longer receives the Coastal Raider promotion.
+Wetlands Bias
+Coastal Bias
+New Zealand - Michael Joseph Savage
+UA: Where She Goes: Earn 25% more Influence for completing City-State quests. Whenever you first meet a Civilization or a City-State, earn a random one-time
+Faith (14), Culture (8), Gold (40) or Science (12) bonus.
+UU1: Defender: Replaces the Ironclad. Significantly cheaper to construct (120 hammers vs. 167). Earns a +15% Combat Bonus in friendly territory. Ignores Zone of Control (“adjacent-to-enemy” movement penalty) when within 2 tiles of a friendly City. Arrives promoted with Cover I.
+UU2: Maori Battalion: Replaces Infantry. Behaves like a Marine when embarked. Receive a Combat Bonus the further this unit is away from the Capital (+2% per tile without limit). Each Battalion stationed within a City-State’s borders earns
++1 Influence with that City-State each turn.
+Coastal Bias
+
+
+Normandy - William the Conqueror
+UA: Castle Builders: All Norman Units gain +10% Combat Strength outside of friendly territory. +5 defensive Strength in every City.
+UI: Motte and Bailey: Available at Engineering. +1 Food, +1 Production. +2 Culture at Flight. Cannot be built adjacent to one another. +25% Combat Strength for units stationed on this tile.
+UU: Pedite: Replaces the Longswordsman, but is available earlier at Metal Casting (instead of Steel). 20 Strength (vs. 21), but is very slightly cheaper to produce. Arrives with the Shock I promotion for free, and may construct Motte and Baileys.
+Norway - Harald Hardrada
+UA: Nordic Bounty: +1 Food and +1 Production from Snow. +1 Production from Tundra.
+UU: Ski Infantry: Replaces Great War Infantry. 50 Strength, Drill I, II, and Ski Infantry Promotion.
+UB: Stave Church: Replaces Temple. Decreased cost (50 Production vs. 67), and requires no Gold maintenance. +1 Faith from Coastal resources, but provides less Faith on its own.
+Coastal Bias
+Nubia - Amanitore
+UA: Ta-Seti: Start with an Apedemak’s Bow.
+UU: Apedemak’s Bow: Replaces the Scout and has identical Strength, but is classified as a Ranged unit and may attack with 3 Range. Cannot upgrade from Ruins, but may upgrade into Airships like the Scout when appropriate.
+UB: Blast Furnace: Replaces Forge. Less costly to produce and does not require resources nearby. In addition to the typical perks, provides +2 Culture from Iron resources, and newly-trained Ranged, Siege and Recon units receive the Accuracy I promotion for free.
+Desert Bias
+Oman - Saif bin Sultan
+UA: All naval units ignore Zone of Control. +8 Gold per turn from trade routes going to conquered cities [note: does not show up as gold per turn in the gold tooltip screen]
+UU: Baghlah: Replaces the Dromon. 8 base strength. Has 4 base movement and receives faith from kills.
+UB: Minaa’ : Replaces the Harbor. Enemy naval units take 30 damage if they end their turn next to a City with this building. +5 City defence. +2 Production from outgoing trade-routes.
+Coastal bias
+Ottomans - Suleiman
+UA: Millets: Each City generates +1 Local Happiness for each Religion present in the City. Receive Faith when promoting units equal to the required experience (not when insta-healing).
+UU1: Sipahi: Available at Gunpowder and costs 20% less Production to train.
+UU2: Janissary: 20% less costly to produce.
+Removed Bias
+Papal State - Urban II
+UA: The Holy See: +1 Food, Production, Science, Gold, Culture and Faith from all Holy Sites. Receives 2 free Delegates in the World Congress.
+UU: Swiss Guard: Replaces Landsknecht. Does not require the Mercenary Army policy, but still must be purchased. Available at Economics. Slightly more expensive to purchase, but is faster (3 Moves vs. 2) and stronger (25 Strength vs. 16). Receive Faith and Gold from kills, extra Gold from Pillaging and arrives with Medic I and II promotions. May upgrade into Riflemen.
+UB: St. Peter’s Basilica: Replaces Grand Temple. In addition to the typical perks, provides a free Cathedral in the City, and a Great Prophet appears.
+
+Persia - Darius I
+UA: Achaemenid Legacy: (unchanged)
+UB: Satrap’s Court (unchanged)
+UU: Immortal (unchanged)
+
+Phoenicia - Hiram
+UA: Skillful Traders: +25% Trade Route slot capacity. Sea Trade Routes gain 50% increased range. Start with a Square Sail Ship
+UU: Square Sail Ship: Replaces the Trireme. May immediately enter Deep Ocean, and is slightly cheaper (25 hammers vs. 30).
+UB: Trade Harbour: Replaces the Harbor. In addition to the typical perks, provides +15% production towards Naval units and +1 Production from all Coastal resources.
+Coastal Bias
+Poland - Casimir III
+UA: Solidarity: 10% cheaper Social Policies (from 20%).
+UB: Ducal Stable (unchanged)
+UU: Winged Hussar (unchanged)
+Polynesia - Kamehameha
+UA: Wayfinding: All embarked units also have +1 movement and extra defense
+UI: Moai (unchanged)
+UU: Koa: Replaces the Longswordsman. 23 Strength (vs. 21), requires no Iron resources, and arrives with the Amphibious promotion. Obsolete at Rifling.
+Portugal - Maria I
+UA: Mare Clausum: Caravans and Cargo Ships are also 25% less costly to construct.
+UB: Feitoria: Replaces Harbor. +1 Gold from Coastal resources, +15% Production for Naval units. Slightly cheaper to build and doesn’t require Gold maintenance.
+UU: Nau (unchanged)
+Prussia - Frederick
+UA: Army with a State: All Prussian trained land units may receive unique Prussian Promotions upon leveling up. (Paradropping units can’t pick the extra attack promotion). +50% Production and Food from internal Trade Routes.
+UB: Fabrik: Replaces the Factory. 25% cheaper to produce and does not require Coal resources.
+UU: Landwehr: Replaces Rifleman. 34 Strength, available at Military Science, starts with Blitz and Quick Study.
+Unique Promotions:
+Tier 0 - Gehorsam: Does nothing. (Units start with this.)
+Tier 1 - Disziplin: +10% Combat Strength.
+Tier 2 - Fleiss: +25% bonus attacking, Tapferkeit: +25% bonus defending.
+Tier 3 - Zielstrebigkeit: Extra attack (requires Fleiss), Härte: 50% Cover (requires Tapferkeit), Pünktlichkeit: +1 Move (requires either)
+Tier 4 - Zuverlässigkeit: General Bonus and March (requires Zielstrebigkeit), Zurückhaltung: 30% bonus in friendly territory (requires Härte), Pflichtbewusstsein: 50% vs Mounted and Armored, +1 Move (requires Pünktlichkeit)
+Romania - Carol I
+UA: Nihil Sine Deo: All Romanian Units earn 25% of foe’s Combat Strength as Science and Culture upon victory. Units gain a +10% Combat Bonus against wounded foes. +25% Culture output during Golden Ages.
+UU: Vanator: Replaces Gatling Gun. 31 Strength and 2 Range (vs. 1).
+UB: Painted Monastery: Replaces the Garden. In addition to the typical perks, provides +2 Faith and 1 Great Artist point per turn. Does not require freshwater.
+Rome - Augustus Caesar
+UA: The Glory of Rome (unchanged)
+UU1: Ballista: Gains Indirect Fire (like all Siege units in LEKmod).
+UU2: Legion (unchanged)
+Russia - Catherine
+UA: Siberian Riches (unchanged)
+UB: Krepost (unchanged)
+UU: Cossack: Bonus vs. wounded foes reduced from 33% to 25%.
+Scotland - Robert the Bruce
+UA: Flower of Scotland: +2 Production, Science and Culture from Writer's, Artist's and Musician's Guilds. +33% faster Great Person generation in the Capital.
+UU: Gallowglass: Replaces Rifleman. Cheaper and available at Metallurgy (instead of Rifling). 29 Strength. Arrives with Altitude Training and Volley. Requires 1 Iron resource to train.
+UB: Ceilidh Hall: Identical to vanilla Celts.
+Hill Bias
+Shoshone - Pocatello
+UA: Great Expanse: Founded cities start with 4 additional tiles (from 8). Units receive a 15% combat bonus when fighting within their own territory.
+UU1: Pathfinder: 26 hammers to produce (from 30).
+UU2: Comanche Riders (unchanged)
+Siam - Ramkhamhaeng
+UA: Father Governs Children (unchanged)
+UB: Wat (unchanged)
+UU: Naresuan’s Elephant (unchanged)
+Sioux- Sitting Bull
+UA: Dwellers of the Plains: All Sioux units receive a +15% Combat Bonus in Plains.
+UU: Buffalo Hunter: Replaces Composite Bowman. 12 Ranged Strength (vs. 11),
+8 Melee (vs. 7). Can construct Tipis.
+UI: Tipi: Can only be constructed on flat Plains or flatland Deer / Bison resources and must be adjacent to a Luxury resource. Provides +1 Food, +1 Faith. Bonus +1 Culture if adjacent to a city and +1 Gold if adjacent to a River. Gains +1 Food at Civil Service and +1 Faith at Theology. Available at Trapping.
+Plains Bias
+Songhai - Askia
+UA: River Warlord: Instead of the War Canoes promotion, provides unimpeded movement when moving along or across Rivers.
+UB: Mud Pyramid Mosque (unchanged)
+UU: Mandekalu Cavalry (unchanged)
+River Bias
+Spain - Isabella
+UA: Seven Cities of Gold: Grants 100 Gold (vs. 500 for first finder, and 100 after) upon discovering a Natural Wonder.
+UB: Plaza de Toros: Replaces Circus. +2 Culture, may also be built with an improved source of Cattle.
+UU: Tercio (unchanged)
+Sumeria - Gilgamesh
+UA: Cradle of Civilization: +2 Culture from every City upon the discovery of Drama and Poetry.
+UB: Ziggurat: Replaces Temple. +2 Faith, +5% Science. Only costs 1 Gold to maintain (vs. 2).
+UU: Phalanx: Replaces Spearman. Available at Mining. 11 Strength, +50% Flanking bonus, slightly cheaper to produce.
+Sweden - Gustavus Adolphus
+UA: Nobel Prize: +20% Great Person points in all cities.
+UU: Carolean: Replaces Musketman. 24 strength, free March promotion.
+UB: Falu Gruva: Replaces Ironworks. +1 Production from Hills in the City. +6 Tourism at Flight.
+Tibet - Ngawang Lobsang Gyatso
+UA: Eightfold Path to Nirvana: Receive +2 Food, Production, Gold, Culture, Faith and Science in the capital upon the discovery of Drama and Poetry. +1 to those yields at Education, Acoustics, Industrialization, Radio, Radar and Globalization.
+UU: Dalai Lama: Replaces Great Prophets generated and received by Tibet.
+No vision penalty and may spread Religion 1 extra time. May also start 7-turn Golden Ages (consuming the unit).
+UI: Monastery: Can only be built on Hills. Provides +2 Faith and +1 Culture, +1 additional Faith at Theology. +1 Culture for each adjacent Mountain. May be built in Forests and Jungles without removing them.
+Timurids - Timur
+UA: Ulugh Beg’s Observatory: +5 Combat Strength and +10% Science, Production, Gold and Culture in the original Capital. These bonuses are terminated if the original Capital is captured.
+UU: Marathi Rider: Medieval Air unit, available at Chivalry. Replaces Horsemen. Requires 1 Horse, has 4 Range and 21 Combat Strength. Behaves as an Air unit, and receives the appropriate promotions.
+UB: Serai: Replaces Caravansary. +1 Gold for every 3 Citizens in the City, allows units to Airlift between Cities with Serais and increases Air unit capacity by 1.
+Tonga - 'Aho'eitu
+UA: The Friendly Islands: +1 Gold and Science for every 5 Citizens in a City.
+UU : Matato'a: Replaces the Archer (but does not require Archery to produce).
++1 Movement and +1 Sight; these bonuses are lost with upgrades.
+Obsolete at Machinery.
+UB: Mala’e: Replaces the Granary. Available at Sailing. Significantly cheaper to construct (30 hammers vs. 40), and provides +2 Food if the city is adjacent to at least 3 Coastal tiles.
+Coastal Bias
+
+Turkey - Ataturk
+UA: Westernization: Amphitheaters, Opera Houses, Museums and Broadcast Towers are built 50% faster and each provide 1 Science and Production. +1 Production and Science from Great Works.
+UU: Kuva-yi Milliye: Replaces Great War Infantry. Weaker (46 Strength vs. 50), +1 Movement. +25% Combat Bonus when a Great General is near (updated whenever you move the unit, or when you move the General and the unit has movement left) and Upgrades for free.
+UB: Halkevleri: Replaces the Public School. In addition to typical perks, provides +3 Culture and is 20% cheaper to construct.
+U.A.E - Sheikh Zayed
+UA: Upon completing a Wonder, receive 100 gold and start a We Love The King Day [15 turns, stacks with an existing kingsday] in the city where it is built. All Units gain +3 Gold per turn and +1 Experience on tiles with a Trading Route
+UB: Burj: Replaces the Hotel. In addition to the usual effects of a Hotel, this building gives +2 Gold and +2 Culture to Great Person Improvements and Desert tiles (except floodplains).
+Qasimi Raider: Replaces the Privateer. 20% Cheaper. Gains double the amount of Gold when pillaging Trade Routes and Attacking Cities. +2 Movement.
+Coastal Bias
+Ukraine - Yaroslav I
+UA: Chumatskyi Shlyah (The Way of Chumaks): +1 Food from Maize, Wheat and Salt resources after researching The Wheel.
+UU: Zaphorosian Cossack: Replaces Lancer. Arrives with Shock 1 and a
++25% Combat Bonus in friendly territory.
+UB: Knyaz Court: Replaces Market. +2 Gold, +25% gold, Receive 20 Gold per Knyaz Court when a Great Person is consumed.
+Venice - Enrico Dandolo
+UA: Serenissima - Capable of producing Settlers. Sea trade routes cannot be plundered.
+Receive a Free Trade Route and Cargo Ship when Compass is researched.
+
+UU: (unchanged)
+UB: Grand Canal - Replaces East India Company. Provides +2 Trade Routes, +25% Gold and +4 Gold. Increased Gold from Trade Routes. Does not require Markets and is available at Currency (instead of Guilds).
+Coastal bias
+Vietnam - Hai Ba Trung
+UA: Tam Giao: +2 Food, +1 Production from Marsh. +1 Faith from Jungle. Units receive double Movement through Marshes and Jungles, and receive a Combat Bonus in Marshes (+30%) and Jungles (+15%).
+UU: Viet Cong: Replaces Infantry. Is Invisible except to adjacent units and can traverse mountains, taking 50 HP damage if they end their turn on one.
+Note - Viet Cong may sometimes cause crashes when capturing Cities, recommended to use other units.
+UB: Vo Khi: Replaces Armory. Available at Metal Casting, +1 Food, +1 Culture and +1 Production from Marsh. +1 Culture from Jungle. All melee units trained in a city with a Vo Khi receive the Woodsman promotion. Doesn’t require Barracks.
+Wetlands Bias
+Wales - Owain Glyndwr
+UA: Hafod a Hendref: +1 Food and +1 Gold from Sheep. All units receive a 15% Combat Bonus fighting on Hills.
+UU: Saethwyr: Replaces Crossbowman. 15 Combat Strength (vs. 13).
+UI: Caer: Unique Improvement unlocked at Chivalry. +25% Defense on this tile, +3 Gold, +1 Culture, and +1 Production. +1 Culture at Acoustics. Receives yields from certain policies:
++1 Culture from Cultural Exchange
++1 Science from Free Thought
++1 Food from Commerce Finisher
+May only be built on Hills without resources.
+Hill Bias
+Zimbabwe - Mutota
+UA: Great Zimbabwe: +25% Production towards military units and all buildings in the Capital (Guilds, National and World Wonders do not count as buildings).
+UU: Shona Warrior: Replaces the Warrior. 9 Strength (vs. 8) and is capable of building Quarries and Farms.
+UB: Stone Mason: Replaces Stoneworks. Does not provide Happiness, but is 20% cheaper to produce and provides +2 Culture. Doesn’t require resources to construct.
+Hill Bias
+Zulu - Shaka
+UA: Iklwa (unchanged)
+UB: Ikanda (unchanged)
+UU: Impi (unchanged)
+Published by Google Drive–Report Abuse

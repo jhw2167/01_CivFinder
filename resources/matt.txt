@@ -1,0 +1,24 @@
+Prussia - Frederick
+UA: Army with a State: All Prussian trained land units may receive unique Prussian Promotions upon leveling up. (Paradropping units can’t pick the extra attack promotion). +50% Production and Food from internal Trade Routes.
+UB: Fabrik: Replaces the Factory. 25% cheaper to produce and does not require Coal resources.
+UU: Landwehr: Replaces Rifleman. 34 Strength, available at Military Science, starts with Blitz and Quick Study.
+Unique Promotions:
+Tier 0 - Gehorsam: Does nothing. (Units start with this.)
+Tier 1 - Disziplin: +10% Combat Strength.
+Tier 2 - Fleiss: +25% bonus attacking, Tapferkeit: +25% bonus defending.
+Tier 3 - Zielstrebigkeit: Extra attack (requires Fleiss), Härte: 50% Cover (requires Tapferkeit), Pünktlichkeit: +1 Move (requires either)
+Tier 4 - Zuverlässigkeit: General Bonus and March (requires Zielstrebigkeit), Zurückhaltung: 30% bonus in friendly territory (requires Härte), Pflichtbewusstsein: 50% vs Mounted and Armored, +1 Move (requires Pünktlichkeit)
+---------------------------------------------------------------
+
+Khmer - Suryavarman II
+UA: Grand Baray of Angkor: Receive a free Baray in the Capital.
+UU: Ballista Elephant: Replaces Crossbowman. 14 Ranged Strength (vs. 18), 20 Melee (vs. 13), 3 Moves, 2 Range, classified as a Mounted Ranged unit. Arrives with the Feared Elephant promotion.
+UB: Baray: Replaces Garden. In addition to usual effects, 10% of Food is carried over after a Citizen is born. +2 Food and +2 Faith at Drama and Poetry.
+---------------------------------------------------------------
+
+Shoshone - Pocatello
+UA: Great Expanse: Founded cities start with 4 additional tiles (from 8). Units receive a 15% combat bonus when fighting within their own territory.
+UU1: Pathfinder: 26 hammers to produce (from 30).
+UU2: Comanche Riders (unchanged)
+---------------------------------------------------------------
+

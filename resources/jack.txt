@@ -1,0 +1,21 @@
+
+Ayyubids - Saladin
+UA: Justice of Saladin: All cities receive a free Burial Tomb upon capture. +25% Improvement construction rate.
+UB: Madrasah: Replaces University. +2 Faith from the Madrasah; +1 Science from Flood Plains, +2 Science from Oases.
+UU: Mamluk: Replaces Knight. 20 Strength, +50% Combat Bonus vs. Melee units, +25% vs. Gunpowder units. Slightly more expensive to produce.
+Desert Bias
+---------------------------------------------------------------
+
+Poland - Casimir III
+UA: Solidarity: 10% cheaper Social Policies (from 20%).
+UB: Ducal Stable (unchanged)
+UU: Winged Hussar (unchanged)
+---------------------------------------------------------------
+
+
+Turkey - Ataturk
+UA: Westernization: Amphitheaters, Opera Houses, Museums and Broadcast Towers are built 50% faster and each provide 1 Science and Production. +1 Production and Science from Great Works.
+UU: Kuva-yi Milliye: Replaces Great War Infantry. Weaker (46 Strength vs. 50), +1 Movement. +25% Combat Bonus when a Great General is near (updated whenever you move the unit, or when you move the General and the unit has movement left) and Upgrades for free.
+UB: Halkevleri: Replaces the Public School. In addition to typical perks, provides +3 Culture and is 20% cheaper to construct.
+---------------------------------------------------------------
+

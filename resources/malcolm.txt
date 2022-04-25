@@ -1,0 +1,17 @@
+Hungary - András II
+UA: Verszerzodes: Walls, Castles, Arsenals and Military Bases provide
++1 Production and Culture.
+UU: Black Arquebusier: Replaces Musketman. Identical strength, but is capable of setting up to perform Ranged attacks (similar to a Siege unit). Arrives with Shock I.
+UB: Orszaggyules: Replaces the Palace. In addition to the regular bonuses of the Palace, a second Orszaggyules may be constructed to move the Capital, and the original can be sold and moved as well. The Capital is located in the last City to build an Orszaggyules. Provides +25% faster Great Person Generation and +10% Production towards buildings. +3 Food, Production and Culture at Chivalry.
+Requires Mathematics to construct.
+---------------------------------------------------------------
+
+Famadiahona - Enables Knockback and Retreating mechanics
+---------------------------------------------------------------
+
+Belgium - Leopold II  
+UA: Colonialist Riches: +1 Production from Plantations. +1 Gold from Strategic Resources.
+UB: Stade: Replaces Zoo. +3 Happiness, +1 Culture, +1 Gold. Cheaper to construct. Does not require a Colosseum to be built.
+UU: Force Publique: Replaces Great War Infantry. 51 Strength (vs. 50), arrives with Drill I and Charge.
+---------------------------------------------------------------
+
